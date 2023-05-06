@@ -4,9 +4,9 @@ These are basic projects written in Python. They use various modules such as tki
 
 ## Projects:
 
-- **Phonebook:** 
+- **Phonebook** 
 
-- **Check Files GUI:** 
+- **Check Files GUI** 
 
 ### Phonebook
 This project functions as a phone book for a user. It saves a contact's name, phone number, and email 
